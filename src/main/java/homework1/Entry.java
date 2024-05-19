@@ -77,6 +77,4 @@ public class Entry implements Comparable<Entry> {
 
         return thisNameParts[1].compareTo(otherNameParts[1]);
     }
-
-
 }

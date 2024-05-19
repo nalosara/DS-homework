@@ -4,52 +4,16 @@ import java.io.IOException;
 import java.util.Comparator;
 import java.util.Scanner;
 
+import java.io.IOException;
+import java.util.Scanner;
+
 public class PhonebookV1 {
     public static void main(String[] args) {
         try {
-            // Load the unsorted file into an array
             Entry[] entries = FileUtils.readFile("raw_phonebook_data.csv");
 
-            Scanner scanner = new Scanner(System.in);
+            MergeSort.sort(entries);
 
-            System.out.println("Choose sorting criteria: ");
-            System.out.println("1. Name");
-            System.out.println("2. Street Address");
-            System.out.println("3. City");
-            System.out.println("4. Postcode");
-            System.out.println("5. Country");
-            System.out.println("6. Phone Number");
-            int choice = scanner.nextInt();
-            scanner.nextLine();  // consume the newline
-
-            Comparator<Entry> comparator = null;
-            switch (choice) {
-                case 1:
-                    // Default comparator in Entry class is for name
-                    break;
-                case 2:
-                    comparator = new StreetAddressComparator();
-                    break;
-                case 3:
-                    comparator = new CityComparator();
-                    break;
-                case 4:
-                    comparator = new PostcodeComparator();
-                    break;
-                case 5:
-                    comparator = new CountryComparator();
-                    break;
-                case 6:
-                    comparator = new PhoneNumberComparator();
-                    break;
-                default:
-                    System.out.println("Invalid choice. Sorting by name.");
-            }
-
-            // Sort the entries
-            MergeSort.sort(entries, comparator);
-
-            // Save the sorted entries into a new CSV file
             FileUtils.writeToFile(entries, "sorted_phonebook.csv");
 
             System.out.println("Loading the entries...");
@@ -58,6 +22,8 @@ public class PhonebookV1 {
             System.out.println("==================================");
             System.out.println("System is ready.");
             System.out.println("\n");
+
+            Scanner scanner = new Scanner(System.in);
 
             while (true) {
                 System.out.print("Enter the name that you wish to search for, or -1 to exit: ");
@@ -99,3 +65,4 @@ public class PhonebookV1 {
         }
     }
 }
+

@@ -1,31 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="43bcbb7b-85d8-4878-aab5-f4110b3c044f" name="Changes" comment="" />
+    <list default="true" id="43bcbb7b-85d8-4878-aab5-f4110b3c044f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorted_phonebook.csv" beforeDir="false" afterPath="$PROJECT_DIR$/sorted_phonebook.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework1/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework1/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework1/CityComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework1/CountryComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework1/Entry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework1/Entry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework1/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework1/FileUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework1/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework1/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework1/PhoneNumberComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework1/PhonebookV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework1/PhonebookV1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework1/PostcodeComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework1/StreetAddressComparator.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2ggmFiB5PXLSBYDLonCJRU8llwV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.PhonebookV1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/saranalo/IdeaProjects/DS-homework&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.java.homework1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -41,7 +79,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716127499327</updated>
-      <workItem from="1716127501578" duration="1000" />
+      <workItem from="1716127501578" duration="705000" />
+      <workItem from="1716145249659" duration="1921000" />
     </task>
     <servers />
   </component>
