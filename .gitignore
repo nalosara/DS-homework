@@ -27,3 +27,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+
+## CSV files ##
+raw_phonebook_data.csv
+sorted_phonebook.csv

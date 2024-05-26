@@ -7,22 +7,18 @@
     <list default="true" id="43bcbb7b-85d8-4878-aab5-f4110b3c044f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorted_phonebook.csv" beforeDir="false" afterPath="$PROJECT_DIR$/sorted_phonebook.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework1/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework1/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework1/CityComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework1/CountryComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework1/Entry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework1/Entry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework1/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework1/FileUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework1/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework1/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework1/PhoneNumberComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework1/PhonebookV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework1/PhonebookV1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework1/PostcodeComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework1/StreetAddressComparator.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,22 +36,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.PhonebookV1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/saranalo/IdeaProjects/DS-homework&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PhonebookV1.executor": "Run",
+    "Application.Scheduler.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/saranalo/IdeaProjects/DS-homework",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -80,7 +77,9 @@
       <option name="presentableId" value="Default" />
       <updated>1716127499327</updated>
       <workItem from="1716127501578" duration="705000" />
-      <workItem from="1716145249659" duration="1921000" />
+      <workItem from="1716145249659" duration="2749000" />
+      <workItem from="1716289595884" duration="1338000" />
+      <workItem from="1716487973568" duration="4156000" />
     </task>
     <servers />
   </component>
