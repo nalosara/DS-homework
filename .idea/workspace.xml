@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43bcbb7b-85d8-4878-aab5-f4110b3c044f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.PhonebookV1.executor": "Run",
+    "Application.PhonebookV2.executor": "Run",
     "Application.Scheduler.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -80,6 +80,8 @@
       <workItem from="1716145249659" duration="2749000" />
       <workItem from="1716289595884" duration="1338000" />
       <workItem from="1716487973568" duration="4156000" />
+      <workItem from="1716738204517" duration="630000" />
+      <workItem from="1717010352651" duration="3415000" />
     </task>
     <servers />
   </component>
