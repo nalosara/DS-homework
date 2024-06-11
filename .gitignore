@@ -32,3 +32,4 @@ bin/
 ## CSV files ##
 raw_phonebook_data.csv
 sorted_phonebook.csv
+social_network.csv
